@@ -1,0 +1,18 @@
+body {
+    text-align:center;
+  margin: 0 0 0 10px;
+}
+form {
+  width: 26%;
+}
+button {
+  background-color:white;
+  border-radius: 5px;
+  border:1px solid #bebebe;
+}
+#currentWeather {
+  border: 1px black solid;
+  width:26%;
+  border-radius: 20px;
+  font-weight:bold;
+}
